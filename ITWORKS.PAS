@@ -43,7 +43,7 @@ END;
 
 Procedure DoTheTitle;
 begin
-     PROGNAME:=('SysOp Smashin v0.01ä');
+     PROGNAME:=('SysOp Smashin v0.01Ã¤');
 end;
 
 {***************************************************************}
@@ -349,12 +349,12 @@ begin
  swriteln('');
  swriteln('');
  set_foreground(15);
- swriteln('                       Welcome to SysOp Smashin v0.01ä');
+ swriteln('                       Welcome to SysOp Smashin v0.01Ã¤');
  set_foreground(10);
- swriteln('                     (C) 1996 ... 2008 T.J. McMillen, Jr.');
+ swriteln('                     (C) 1994 ... XXXX T.J. McMillen, Jr.');
  set_foreground(7);
  swriteln('');
- swriteln('                      Compiled on 01/16/2008:   20:45.19');
+ swriteln('                      Compiled on 01/16/XXXX:   20:45.19');
  swriteln('');
  set_foreground(8);
  swriteln('                      Compiled with:  Turbo Pascal v7.0');
