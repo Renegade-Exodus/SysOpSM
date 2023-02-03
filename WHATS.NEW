@@ -1,0 +1,71 @@
+
+                         WHATS.NEW IN SYSOP SMASHIN
+     컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴컴
+
+              If you have any suggestions on this game, PLEASE
+           E-MAIL me on the Main Menu by hitting [N] Note to SysOp
+
+        This is supposed to be where the Instructions will be placed.
+
+   For Now, I will just put in here what I have updated since the last time
+   I compiled the game.
+
+ 3/10 - Added this option (Reading Instructions Externally) Still
+        working on getting bugs out of this. :(
+      - Added Option - if user doesn't have ANSI, he will be kicked
+        out of the door and a message displayed telling why.
+      - Fixed Healing Spot so that if you have full hitpoints, another
+        message will be displayed and you will not be healed.
+      - Working on Sector 2.
+      - Added Healing Spot to the Main Menu.
+ 3/11 - Think I finally fixed the text file reading routines.  Not the
+        greatest, but they work better than they did before. <G>
+
+ 3/13 - Added Register to the Program.  Will have to register this shortly
+        though.  It's GREAT!  I have the registration keymaker already
+        added, so that is one job off of my mind. ;)
+      - Made "REGISTER.EXE" to allow user to enter his or her registration
+        name & code.  Thus placing the game in an "easy" installation
+        feature for the codes.
+
+ 3/14 - Working on the player data routines.  These I almost have
+        finished. Just working a few bugs out of the code though.  Look
+        for the save option and more "indepth" playing in the near future.
+
+ 3/16 - Enhanced Healing Routines for use with new data structures.
+      - Still working bugs out of data routines, but getting closer to
+        being complete. ;) (YEAH!<G>)
+      - Sector 2 was put on hold until Data routines are finished.
+      - Thinking of making Sector 1 a training sector.
+      - Adding Points to SysOps you SMASH, make you feel like you are
+        doing some good in the game. ;)
+      - Planning on adding Passwords to higher Sectors, which would
+        force play on the lower sectors until password is found.
+      - Secret "TERRANCE!" will soon be added.
+
+ 3/17 - Added "Chat Checking" so that when you return from chatting with
+        SysOp, previous screen is displayed in full.  Not chopped off
+        from lines 19 - 25 ...
+
+ 3/23 - FINALLY!  The User Data Routines ARE COMPLETE!  WOO-HOO!  The Game
+        can NOW be finished.  After MANY YEARS, it will FINALLY be
+        finished and uploaded world-wide. ;)
+
+ 3/24 - Almost have the Data Routines completely bug free.  As you will
+        notice if you go in and out of the door a few times, sometimes
+        your character will be there, others it won't be ... :(
+
+ 3/30 - Playing with reading routines, added options for continuous read,
+        pressing ENTER will automatically hit "YES" for you.  Also,
+        redid the pause procedure only allowing the "ENTER" or "RETURN"
+        key to be pressed on an "[ENTER]" prompt, instead of any key.
+        Just a little twist. ;)
+
+ 6/07 - After many months of forgetting about this headache, I am back. ;)
+        Adding color codes to game for text files and "external" programs.
+        Should have these fixed soon.
+
+ 7/11 - Added color support to all text files using the same scheme that
+        renegade bbs software uses with it's pipe color codes.
+
+        |14This is Yellow.   |15This is White.   |11This is Light Blue.
